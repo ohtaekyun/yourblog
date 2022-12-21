@@ -1,6 +1,6 @@
 ---
 title: 자바 설치 방법
-date: 2022/12/21 14:04:25
+date: 2022/12/20 14:00:00
 categories:
 - Computer
 - Java

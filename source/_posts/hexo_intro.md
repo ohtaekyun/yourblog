@@ -1,5 +1,5 @@
 ---
-title: Hexo command
+title: Hexo introduction
 date: 2022/12/20 15:00:00
 categories:
 - Computer

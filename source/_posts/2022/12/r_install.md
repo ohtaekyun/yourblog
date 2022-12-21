@@ -1,6 +1,6 @@
 ---
 title: R 설치 방법
-date: 2022/12/20 14:04:25
+date: 2022/12/21 15:00:00
 categories:
 - Computer
 - R
