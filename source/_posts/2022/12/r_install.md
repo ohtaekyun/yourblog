@@ -2,13 +2,15 @@
 title: R 설치 방법
 date: 2022/12/20 14:04:25
 categories:
-- Sports
-- football
+- Computer
+- R
 tags:
-- injury
-- Fight
-- Shocking
+- Computer
+- R
+- install
 ---
+# click here
+More info: [click](https://www.r-project.org/)
 
-# 이미지
-![](\images\말티즈.jpg)
+# view this
+![whatdog](/images/2022/12/test/말티즈.jpg)
